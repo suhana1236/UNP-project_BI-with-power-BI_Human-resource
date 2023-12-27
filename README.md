@@ -10,5 +10,7 @@ Key highlights:
 4. Lead the team through its intricate symphony of information.
 
    PBIX file link:https://drive.google.com/file/d/1TsjNx2zLlnUv0RMVLWc3-Mq20N7CCTg1/view?usp=sharing
+   
    PDF link: https://drive.google.com/file/d/1GCvIZKaILYK0hqxvPwspGaTmUWc0d7aD/view?usp=sharing
+   
    PPT link: https://docs.google.com/presentation/d/1husUOm42oZnEo9bjdprkZ7rnL4Sryqko/edit?usp=sharing&ouid=117191090292069421472&rtpof=true&sd=true
